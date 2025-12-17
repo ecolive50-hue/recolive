@@ -1,14 +1,20 @@
-# RecoLive
 
-RecoLive is a Flutter-based Android application.
+# 🎙️ RecoLive
 
-## Features
-- Android app (Flutter)
-- Codemagic CI/CD build
-- Ready for Play Store (AAB)
-- Modern Android v2 embedding
+RecoLive is a Flutter-based live voice & social app.
+This project is structured for Android build using Flutter 3.x
+and is ready for GitHub, Codemagic, and Play Store release.
 
-## Build
-This project is configured to build using Codemagic.
+---
 
-## Folder Structure
+## 🚀 Features
+- User Login (demo)
+- Home Page
+- Profile Page
+- Wallet / Coin System
+- Backend API integration
+- Clean Flutter architecture
+
+---
+
+## 🧱 Project Structure
