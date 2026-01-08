@@ -1,67 +1,38 @@
-# =========================
-# Flutter / Dart
-# =========================
+
+# Flutter
 .dart_tool/
 .packages
-.pub-cache/
 .pub/
+.pub-cache/
 build/
+
+# Flutter generated
 .flutter-plugins
 .flutter-plugins-dependencies
-.metadata
 
-# =========================
-# IDE
-# =========================
-.vscode/
-.idea/
-*.iml
-
-# =========================
 # Android
-# =========================
 android/.gradle/
 android/app/build/
-android/build/
 android/local.properties
 android/key.properties
-android/app/*.keystore
-android/app/*.jks
 
-# =========================
-# iOS (safe to ignore if not using)
-# =========================
+# iOS
 ios/Pods/
 ios/.symlinks/
 ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
 ios/Flutter/App.framework
 ios/Flutter/Generated.xcconfig
 ios/Flutter/flutter_export_environment.sh
-ios/Flutter/ephemeral/
-ios/Runner.xcworkspace/
-ios/DerivedData/
 
-# =========================
-# Backend (Node.js)
-# =========================
-backend/node_modules/
-node_modules/
-npm-debug.log*
-yarn-error.log*
+# IDE
+.idea/
+.vscode/
+*.iml
 
-# =========================
-# Environment & Secrets
-# =========================
-.env
-.env.*
-
-# =========================
-# OS files
-# =========================
+# OS
 .DS_Store
 Thumbs.db
 
-# =========================
 # Logs
-# =========================
 *.log
